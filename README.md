@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunit4155%2Fpub.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunit4155%2Fpub?ref=badge_shield)
+
 <sup>❤ Be a Hero, tip a 🍺 🙂 ⟶ Ƀ: 1AZMeGVfCBbYwVYyG9s79pJDyocTZgiApa</sup>
 
 pub
@@ -73,3 +75,7 @@ GPG
 	=nkv0
 	-----END PGP PUBLIC KEY BLOCK-----
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunit4155%2Fpub.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunit4155%2Fpub?ref=badge_large)
